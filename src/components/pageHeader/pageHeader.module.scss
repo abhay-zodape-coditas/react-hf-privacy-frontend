@@ -1,0 +1,20 @@
+@import "../../styles/colors";
+
+.containerWrapper {
+  display: flex;
+  justify-content: center;
+  background-color: $white;
+  height: auto;
+  border-bottom: 0.0625rem solid $primaryBorderColor;
+  padding: 3rem;
+}
+
+.contentWrapper {
+  color: $black;
+}
+
+.headingWrapper {
+  font-size: 3rem;
+  font-weight: 400;
+  margin-top: 1rem;
+}

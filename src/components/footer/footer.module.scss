@@ -1,0 +1,84 @@
+@import "../../styles/colors";
+
+.containerWrapper {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  padding: 0 22rem 0 22rem;
+  background-color: $white;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 920px) {
+  .containerWrapper {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 0 2rem 0 2rem;
+    background-color: $white;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+}
+
+.contentWrapper {
+  color: $black;
+  display: flex;
+  flex-direction: column;
+
+  &:after {
+    content: "";
+    display: inline-block;
+    vertical-align: top;
+  }
+}
+
+.poweredWrapper {
+  text-align: right;
+  margin-right: auto;
+  font-size: 0.7rem;
+}
+
+.footerTextWrapper {
+  font-weight: 600;
+  font-size: 0.8rem;
+  margin: 0.5rem 0 0.8rem 0;
+}
+
+.footerAddress {
+  font-size: 0.7rem;
+  text-align: center;
+
+  .addressTitle {
+    text-align: left;
+    font-family: "Aktiv Grotesk Medium";
+  }
+}
+
+.contactWrapper {
+  color: $black;
+  font-size: 0.7rem;
+}
+
+.privacyWrapper {
+  font-size: 0.7rem;
+  color: $blue;
+  padding-bottom: 1rem;
+}
+
+.policyLink {
+  text-decoration: none;
+}
+
+@media (min-width: 921px) and (max-width: 1024px) {
+  .containerWrapper {
+    padding: 0 8rem 0 8rem;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .containerWrapper {
+    padding: 0 15rem 0 15rem;
+  }
+}

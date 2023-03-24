@@ -1,0 +1,74 @@
+@import "../../styles/colors";
+.dropzone {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+  border: dashed 0.1875rem $gray;
+  border-radius: 1rem;
+  padding: 2rem;
+}
+
+.active {
+  border: dashed 0.1875rem $dodgerblue;
+}
+
+.uploadMessage {
+  color: $lightGray;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-size: 0.8rem;
+
+  .uploadText {
+    margin: 0.5rem 0 0 0;
+  }
+}
+
+.files {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 0.0625rem;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  white-space: nowrap;
+  width: 0.0625rem;
+}
+
+.files + label {
+  margin-top: 1rem;
+  background-color: $transparentBlack;
+  border-radius: 4rem;
+  color: $white;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  text-align: center;
+  user-select: none;
+}
+
+.files + label:focus,
+.files + label:hover {
+  background-color: $transparentBlack2;
+  color: $white;
+}
+
+.files + label:focus {
+  outline: 0.0625rem dotted $white;
+}
+
+.uploadBtn {
+  width: auto;
+  color: $white;
+  text-transform: uppercase;
+  margin: 2rem;
+  background-color: $blue;
+  border-radius: 4rem;
+  cursor: pointer;
+  padding: 0.75rem;
+  text-align: center;
+}

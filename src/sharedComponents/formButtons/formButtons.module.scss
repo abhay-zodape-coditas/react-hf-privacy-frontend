@@ -1,0 +1,51 @@
+@import "../../styles/colors";
+
+.userTypeBtn {
+  margin: 0.3125rem;
+  width: 8.4375rem;
+  color: $white;
+  background-color: $black;
+  font-size: 0.7rem;
+  font-size: 0.7rem;
+  border-color: $black;
+}
+
+.userInActiveBtn {
+  margin: 0.3125rem;
+  font-weight: 500;
+  width: 8.4375rem;
+  color: $darkGray;
+  background-color: $transparentWhite;
+  font-size: 0.7rem;
+  border: 0.0625rem solid $darkGray;
+
+  &:hover {
+    border: 0.0625rem solid $transparentWhite;
+    background-color: $black;
+  }
+}
+
+@media (max-width: 920px) {
+  .userTypeBtn {
+    margin: 0.3125rem;
+    color: $white;
+    background-color: $black;
+    font-size: 0.7rem;
+    width: 8rem;
+  }
+
+  .userInActiveBtn {
+    margin: 0.3125rem;
+    font-weight: 500;
+    color: $darkGray;
+    background-color: $transparentWhite;
+    font-size: 0.7rem;
+    border: 0.0625rem solid $darkGray;
+    width: 8rem;
+
+    &:hover {
+      border: 0.0625rem solid $transparentWhite;
+      background-color: $black;
+    }
+  }
+}

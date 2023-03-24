@@ -1,0 +1,116 @@
+@import "../../styles/colors";
+
+.outerContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: auto;
+  padding: 1.5rem;
+  background-color: $white;
+  margin-bottom: 1rem;
+  color: $black;
+
+  .containerWrapper {
+    padding: 0 6rem;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      width: 100% !important;
+      padding: 1rem !important;
+    }
+    .tableWrapper {
+      overflow-x: scroll;
+    }
+  }
+
+  @media (min-width: 769px) and (max-width: 920px) {
+    .tableWrapper {
+      overflow-x: scroll;
+    }
+  }
+
+  .container {
+    background-color: $white;
+    padding: 1rem 2rem;
+    p,
+    li {
+      font-size: 0.875rem;
+    }
+
+    .title {
+      font-weight: 300;
+      font-size: 1.75rem;
+      padding-top: 0.5rem;
+      margin: 0;
+
+      .fontWeightExtraBold {
+        font-weight: 800;
+      }
+    }
+
+    .updatedOn {
+      font-weight: 600;
+      font-size: 0.875rem;
+      display: inline-block;
+      padding-bottom: 2rem;
+    }
+
+    .summary {
+      .summaryTitle {
+        font-weight: 300;
+        padding-bottom: 1rem;
+      }
+    }
+    .contentContainer {
+      .contact {
+        p {
+          margin: 0;
+        }
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+        padding-bottom: 1rem;
+      }
+      a {
+        color: $blue;
+        margin-left: 0.3rem;
+        text-decoration: underline;
+        &:hover {
+          color: $linkColor;
+        }
+      }
+      .contentTitle {
+        font-weight: 300;
+        padding-bottom: 1rem;
+      }
+      .contentSubTitle {
+        font-size: 1.2rem;
+      }
+    }
+
+    .contactDetailsTable {
+      border: 0.0625rem solid $black;
+      margin: 1rem;
+      margin-bottom: 2rem;
+      th,
+      td {
+        font-size: 0.875rem;
+        padding: 0.5rem;
+        border-right: 0.0625rem solid $black;
+      }
+      thead {
+        border: 0.0625rem solid $black;
+      }
+    }
+    .contactDetails {
+      margin: 0;
+    }
+  }
+}
+.containerWrapper {
+  padding: 0 0 1.5rem 0;
+  @media (max-width: 768px) {
+    padding: 0 0.5rem 1rem 0.5rem;
+  }
+}

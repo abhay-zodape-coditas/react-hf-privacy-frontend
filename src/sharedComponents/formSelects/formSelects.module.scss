@@ -1,0 +1,11 @@
+@import "../../styles/colors";
+
+.selectWrapper {
+  height: 3rem;
+  padding: 0.25rem;
+  background-color: $white;
+  color: $black;
+  &::after {
+    padding-right: 1.25rem;
+  }
+}

@@ -1,0 +1,286 @@
+@import "../../styles/colors";
+
+.containerWrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: auto;
+  padding: 0 22rem 0 22rem;
+  background-color: $white;
+  margin-bottom: 1rem;
+
+  .rowWrapper {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+
+    .labelWrapper {
+      font-weight: 600;
+      margin: 0.2rem 0 0.2rem 0;
+      font-size: 1rem;
+      padding-left: 0rem !important;
+      color: $black;
+    }
+
+    .selectWrapper {
+      height: 3rem;
+      padding: 0.25rem;
+      background-color: $white;
+      color: $black;
+      &::after {
+        padding-right: 1.25rem;
+      }
+
+      color: $blue;
+      text-decoration: underline;
+    }
+
+    .inputField {
+      height: 3rem;
+      background-color: $white;
+      border: 0.0625rem solid $secondaryBorderColor;
+      color: $black;
+      &:focus {
+        border: 0.0625rem solid $black;
+        outline: none;
+        background-color: $white;
+        color: $black;
+      }
+    }
+
+    .textInputField {
+      height: 5rem;
+      padding: 0.7rem;
+      background-color: $white;
+      border: 0.0625rem solid $secondaryBorderColor;
+      color: $black;
+      &:focus {
+        border: 0.0625rem solid $black;
+        outline: none;
+        background-color: $white;
+        color: $black;
+      }
+    }
+
+    .requiredField {
+      color: $red;
+      font-weight: bold;
+      margin-left: 0.2rem;
+    }
+  }
+}
+
+.agreeTerms {
+  padding-left: 1.6rem;
+  color: $black;
+  label {
+    .form-check-label {
+      font-weight: 600;
+      margin: 0.2rem 0 0.2rem 0;
+      font-size: 1rem;
+      color: $black;
+    }
+  }
+}
+
+.errMsg {
+  font-size: 0.8rem;
+  color: $red;
+  height: 0.2rem;
+  margin-top: 0.25rem;
+  padding-left: 0rem !important;
+}
+
+.userTypeErr {
+  display: flex;
+  flex-wrap: wrap;
+  border: 0.0625rem solid $red;
+  padding: 0;
+  .userTypeBtn {
+    margin: 0.3125rem 0.125rem 0.3125rem 0.125rem;
+    width: 8.4375rem;
+    color: $white;
+    background-color: $green;
+    font-size: 0.7rem;
+  }
+
+  .userInActiveBtn {
+    margin: 0.3125rem;
+    font-weight: 500;
+    width: 8.4375rem;
+    color: $darkGray;
+    background-color: $transparentWhite;
+    font-size: 0.7rem;
+    border: 0.0625rem solid $darkGray;
+
+    &:hover {
+      border: 0.0625rem solid $black;
+    }
+  }
+}
+
+.userTypeLayout {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  .userTypeBtn {
+    margin: 0.3125rem;
+    width: 8.4375rem;
+    color: $white;
+    background-color: $black;
+    font-size: 0.7rem;
+    border-color: $black;
+  }
+
+  .userInActiveBtn {
+    margin: 0.3125rem;
+    font-weight: 500;
+    width: 8.4375rem;
+    color: $darkGray;
+    background-color: $transparentWhite;
+    font-size: 0.7rem;
+    border: 0.0625rem solid $darkGray;
+
+    &:hover {
+      border: 0.0625rem solid $black;
+    }
+  }
+}
+
+.recaptchaWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.captchaErrMsg {
+  display: flex;
+  justify-content: center;
+  font-size: 0.8rem;
+  color: $red;
+  height: 0.2rem;
+  margin-top: 0.25rem;
+  padding-left: 0rem !important;
+}
+
+.submitBtnWrapper {
+  display: flex;
+  justify-content: center;
+  padding-top: 0.125rem;
+  padding-bottom: 2rem;
+
+  .submitBtn {
+    width: 9.375rem;
+    color: $white;
+    background-color: $linkColor;
+    outline: none;
+    border-width: 0;
+    height: 2rem;
+    border-radius: 0.5rem;
+    opacity: 0.4;
+  }
+
+  .submitActiveBtn {
+    width: 10.9375rem;
+    color: $white;
+    background-color: $linkColor;
+    outline: none;
+    border-width: 0;
+    margin-top: 0.5rem;
+    height: 3rem !important;
+    border-radius: unset;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  .ripple {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .ripple:before {
+    border-radius: 50%;
+    background-color: $transparentBlack3;
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+  }
+
+  .ripple:focus:before {
+    transition: all 0.5s ease-out;
+    opacity: 0;
+    width: 10rem;
+    height: 10rem;
+    margin-top: -5rem;
+    margin-left: -5rem;
+  }
+}
+
+.successMsg {
+  color: $green;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.failureMsg {
+  color: $red;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: flex-end;
+}
+
+@media (max-width: 920px) {
+  .containerWrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: auto;
+    padding: 0 2rem 0 2rem;
+    margin-bottom: 4rem;
+  }
+
+  .userTypeLayout {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+
+    .userTypeBtn {
+      margin: 0.3125rem;
+      color: $white;
+      background-color: $black;
+      font-size: 0.7rem;
+      width: 8rem;
+    }
+
+    .userInActiveBtn {
+      margin: 0.3125rem;
+      font-weight: 500;
+      color: $darkGray;
+      background-color: $transparentWhite;
+      font-size: 0.7rem;
+      border: 0.0625rem solid $darkGray;
+      width: 8rem;
+
+      &:hover {
+        border: 0.0625rem solid $black;
+      }
+    }
+  }
+}
+
+@media (min-width: 921px) and (max-width: 1024px) {
+  .containerWrapper {
+    padding: 0 8rem 0 8rem;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .containerWrapper {
+    padding: 0 15rem 0 15rem;
+  }
+}

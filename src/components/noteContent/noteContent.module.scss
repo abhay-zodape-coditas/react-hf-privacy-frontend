@@ -1,0 +1,21 @@
+@import "../../styles/colors";
+
+.containerWrapper {
+  display: flex;
+  text-align: left;
+  margin-top: 1rem;
+  background-color: $white;
+  color: $black;
+  .heading {
+    font-weight: 600;
+  }
+}
+
+.contentLayout {
+  font-size: 0.8rem;
+}
+
+.policyLink {
+  text-decoration: none;
+  color: $linkColor;
+}
