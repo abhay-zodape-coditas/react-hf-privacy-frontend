@@ -1,6 +1,6 @@
 import { Fragment, useContext, useEffect, useState } from "react";
 import { Col, Container, Dropdown, Row } from "react-bootstrap";
-import { useLocation, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { languagesMapping } from "../../common/constants/data";
 import ROUTES from "../../common/constants/routes";
 import { LanguageContext } from "../../hoc/languageProvider";
@@ -45,8 +45,8 @@ const LanguageSelector = ({
     <Container className={styleProps?.containerWrapper}>
       <Row>
         <Col className={styles.linkToPrivacyNoticeWrapper} lg={6}>
-          <a
-            href={`${
+          <Link
+            to={`${
               isCurrentMatchingRoute ? "" : ROUTES.PRIVACY_NOTICE
             }/${language}`}
             rel="noopener noreferrer"
@@ -56,7 +56,7 @@ const LanguageSelector = ({
             {isCurrentMatchingRoute
               ? localString?.["viewPrivacyRequestForm"]
               : localString?.["viewPrivacyNotice"]}
-          </a>
+          </Link>
         </Col>
         <Col className={styles.languageWrapper} lg={6}>
           <Fragment>
