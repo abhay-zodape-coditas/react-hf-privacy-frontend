@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { Col, Container, Row } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import { LanguageContext } from "../../hoc/languageProvider";
 import styles from "./noteContent.module.scss";
 
@@ -21,13 +22,13 @@ const NoteContent = () => {
             <br />
             <br />
             {localString?.["noteDetailsThree"]}{" "}
-            <a
-              href={`/privacy-notice/${language}`}
+            <Link
+              to={`/privacy-notice/${language}`}
               className="policyLink"
               data-testid="privacyPolicyLink"
             >
               {localString?.["privacyPolicyLink"]}.
-            </a>
+            </Link>
           </p>
         </Col>
       </Row>
