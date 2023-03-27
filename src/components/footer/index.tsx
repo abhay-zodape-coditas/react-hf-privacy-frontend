@@ -96,6 +96,11 @@ const Footer = () => {
             className="policyLink"
             style={{ marginRight: "0.4rem", fontSize: "0.65rem" }}
             to={`/privacy-notice/${language}`}
+            onClick={() => {
+              document
+                .getElementById("header")
+                ?.scrollIntoView({ behavior: "auto" });
+            }}
           >
             {localString?.["privacyPolicyLink"]}
           </Link>
