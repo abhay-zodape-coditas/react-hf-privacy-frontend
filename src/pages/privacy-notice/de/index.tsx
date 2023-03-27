@@ -140,7 +140,6 @@ const PrivacyPolicyPageDe = () => {
                   }}
                   download
                   target="_blank"
-                  rel="noreferrer"
                 >
                   Cookie-Richtlinie zu lesen,
                 </a>
@@ -322,19 +321,11 @@ const PrivacyPolicyPageDe = () => {
                 Informationen darüber, wie man Cookies verwalten oder
                 deaktivieren kann, finden Sie über die ‚Hilfe-‘ Funktion Ihres
                 Browsers sowie unter
-                <a
-                  href="https://www.aboutcookies.org/"
-                  target={"_blank"}
-                  rel="noreferrer"
-                >
+                <a href="https://www.aboutcookies.org/" target={"_blank"}>
                   https://www.aboutcookies.org/
                 </a>{" "}
                 oder{" "}
-                <a
-                  href="https://www.allaboutcookies.org/"
-                  target={"_blank"}
-                  rel="noreferrer"
-                >
+                <a href="https://www.allaboutcookies.org/" target={"_blank"}>
                   https://www.allaboutcookies.org/
                 </a>{" "}
                 . Beachten Sie jedoch bitte, dass die Funktionalität unserer
@@ -357,7 +348,6 @@ const PrivacyPolicyPageDe = () => {
                   }}
                   download
                   target="_blank"
-                  rel="noreferrer"
                 >
                   Cookie-Richtlinie
                 </a>
@@ -602,7 +592,6 @@ const PrivacyPolicyPageDe = () => {
                   }}
                   download
                   target="_blank"
-                  rel="noreferrer"
                 >
                   Transparenzbericht dargelegten
                 </a>{" "}
@@ -635,8 +624,8 @@ const PrivacyPolicyPageDe = () => {
                   Einen Angemessenheitsbeschluss:
                   <ul>
                     <li className={styles["sectionDescription"]}>
-                      ⦁ der Europäischen Kommission („EK”), basierend auf
-                      Artikel 45 der Verordnung (EU) 2016/679 (DSGVO) – weitere
+                      der Europäischen Kommission („EK”), basierend auf Artikel
+                      45 der Verordnung (EU) 2016/679 (DSGVO) – weitere
                       Informationen und eine vollständige Liste der bis zum
                       heutigen Zeitpunkt als angemessen betrachteten Länder
                       finden Sie unter 
@@ -650,7 +639,7 @@ const PrivacyPolicyPageDe = () => {
                       .
                     </li>
                     <li className={styles["sectionDescription"]}>
-                      ⦁ des zuständigen britischen Ministers, basierend auf
+                      des zuständigen britischen Ministers, basierend auf
                       Artikel 45 der UK GDPR sowie § 17A des Datenschutzgesetzes
                       von 2018 - weitere Informationen und eine vollständige
                       Liste der bis zum heutigen Zeitpunkt als angemessen
@@ -676,7 +665,6 @@ const PrivacyPolicyPageDe = () => {
                         }}
                         download
                         target="_blank"
-                        rel="noreferrer"
                       >
                         Standardvertragsklauseln
                       </a>
@@ -1260,7 +1248,6 @@ const PrivacyPolicyPageDe = () => {
                   className="policyLink"
                   download
                   target={"_blank"}
-                  rel="noreferrer"
                 >
                   Privacy Notice
                 </a>
@@ -1277,7 +1264,6 @@ const PrivacyPolicyPageDe = () => {
                   className="policyLink"
                   download
                   target={"_blank"}
-                  rel="noreferrer"
                 >
                   Data Processing Agreement
                 </a>

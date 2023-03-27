@@ -20,104 +20,80 @@ const PrivacyPolicyPageJa = () => {
           <Col className={styles["container"]}>
             <h2 className={styles["title"]}>
               HYDRAFACIAL{" "}
-              <strong className={styles["fontWeightExtraBold"]}>PRIVACY</strong>{" "}
-              NOTICE
+              <strong className={styles["fontWeightExtraBold"]}>
+                プライバシー通知
+              </strong>
             </h2>
 
             <em className={styles["updatedOn"]}>
-              This Privacy Notice was last updated on 24/02/2023.
+              このプライバシーに関する通知は[24/02/2023]に更新されました。
             </em>
 
             <p>
-              This Privacy Notice will help you understand how we collect, use
-              and protect your Personal Information, and it is applicable to all
-              Hydrafacial products and services.
+              本プライバシー通知は、当社がお客様の個人情報をどのように収集、使用、保護するかをご理解頂くのに役立つものであり、すべてのHydrafacial製品およびサービスに適用されます。
             </p>
             <p>
-              From time to time we may need to change this Privacy Notice. Where
-              we believe you may not reasonably expect such a change, we will
-              alert you about material changes by, for example, placing a notice
-              on our websites and/or sending you an e-mail (if you have
-              registered your e-mail with us) when we are required to do so by
-              applicable law. You can see when this Privacy Notice was last
-              updated by checking the date at this space. You are responsible
-              for periodically reviewing this Privacy Notice.
+              当社は、本プライバシー通知を随時変更する必要がある場合があります。お客様がかかる変更を合理的に期待していないと思われる場合、適用法で義務付けられている場合には、例えば、当社のウェブサイトに通知を掲載する、またはお客様に電子メールを送信する
+              (お客様が電子メールを登録した場合)ことにより、重要な変更についてお客様に通知します。本プライバシー通知がいつ最後に更新されたかは、このスペースの日付で確認することができます。お客様は、本プライバシーに関する通知を定期的に確認する責任を負います。
             </p>
             <div className={styles["summary"]}>
               <h3 className={styles["summaryTitle"]}>
-                OUR PRIVACY NOTICE AT A GLANCE
+                当社のプライバシー通知の概要
               </h3>
               <ol>
                 <li>
-                  <strong>Our promise.</strong> Hydrafacial is committed to the
-                  protection of your Personal Information. We will always treat
-                  your Personal Information with respect and design our products
-                  and services with your privacy in mind.
+                  <strong>当社の約束.</strong>{" "}
+                  Hydrafacialは、お客様の個人情報の保護に努めています。当社は、常にお客様の個人情報を尊重し、お客様のプライバシーを念頭に置いて当社の製品およびサービスを設計します。
                 </li>
                 <li>
-                  <strong>Data we collect.</strong> In order to provide you with
-                  our services, we will need to process your Personal
-                  Information, such as contact details, account information,
-                  treatment history, payment details, machine identifiers or
-                  info about how you interacted with us.
+                  <strong>当社が収集するデータ.</strong>{" "}
+                  当社のサービスを提供するために、当社は連絡先の詳細、アカウント情報、治療履歴、支払いに関する詳細、機械識別子、またはお客様が当社とどのようにやり取りをしたかに関する情報など、お客様の個人情報を処理する必要があります。
                 </li>
                 <li>
-                  <strong>How we collect your data.</strong> We will collect
-                  your data from you, from your use of our products and
-                  services, and from external sources.
+                  <strong>お客様のデータの収集方法.</strong>{" "}
+                  当社は、お客様、当社の製品およびサービスの使用、および外部ソースからお客様のデータを収集します。
                 </li>
                 <li>
-                  <strong>How we use your data.</strong> Your data could be used
-                  for a variety of reasons under legal standings. The processing
-                  of your data could be based on your
-                  <strong> consent </strong>
-                  (e.g. account creation),
-                  <strong>the performance of a contract</strong> (e.g. customer
-                  service), a legal obligation (e.g. exercise your rights or
-                  fulfill a claim) or our
-                  <strong> legitimate interest </strong>(e.g. some marketing
-                  activities and/or fraud prevention).
+                  <strong>お客様のデータの使用方法.</strong>{" "}
+                  お客様のデータは、法的権利の下でさまざまな理由で使用される可能性があります。お客様のデータの処理は、お客様の
+                  <strong> 同意 </strong>
+                  (アカウントの作成など)、
+                  <strong>契約の履行 </strong> (カスタマーサービスなど)、
+                  <strong>法的義務 </strong>
+                  (権利の行使や請求の履行など)、または当社の
+                  <strong>正当な利益 </strong>(マーケティング活動や詐欺防止など)
+                  に基づく可能性があります。
                 </li>
                 <li>
-                  <strong>Sharing data.</strong> We mainly share your data with
-                  service providers who provide us with assistance and support,
-                  these being companies in the Hydrafacial Group or third party
-                  providers.
+                  <strong>データの共有.</strong>{" "}
+                  当社は、お客様のデータを、主にHydrafacial
+                  Groupまたは第三者プロバイダーの企業である、支援とサポートを提供するサービスプロバイダーと共有します。
                 </li>
                 <li>
-                  <strong>Protecting your data.</strong> We strives to implement
-                  approapriate technical and organisational measures in order to
-                  protect your Personal Information against accidental or
-                  unlawful destruction, accidental loss or alteration,
-                  unauthorised disclosure or access and any other unlawful forms
-                  of processing.
+                  <strong>お客様のデータの保護.</strong>
+                  当社は、偶発的または違法な破壊、偶発的な紛失または改ざん、不正な開示またはアクセス、およびその他の違法な形式の処理からお客様の個人情報を保護するために、適切な技術的および組織的対策を実施するよう努めています。
                 </li>
                 <li>
-                  <strong>How long do we keep your data.</strong> We will not
-                  process your Personal Information for longer than is necessary
-                  nor will we process it for purposes beyond what it was
-                  collected for.
+                  <strong>お客様のデータの保持期間.</strong>{" "}
+                  当社は、お客様の個人情報を必要以上に長く処理することはなく、また収集された目的を超えた目的で処理することもありません。
                 </li>
                 <li>
-                  <strong>Children’s privacy.</strong> We do not knowingly
-                  collect any personal information from children under 13.
+                  <strong>子供のプライバシー.</strong>{" "}
+                  当社は、13歳未満の子供から故意に個人情報を収集することはありません。
                 </li>
                 <li>
-                  <strong>Links to other websites.</strong> We have no
-                  responsibility for the linked websites.
+                  <strong>他のウェブサイトへのリンク.</strong>{" "}
+                  リンク先のウェブサイトについては一切の責任を負いません。
                 </li>
                 <li>
-                  <strong>Your rights.</strong> You may have certain rights
-                  relating to your Personal Information depending on your
-                  location and subject to local applicable laws (e.g. the right
-                  to be informed; the right of access; the right to
-                  rectification; the right to erasure; the right to object).
-                  Additional information for consumers in the United States
-                  below.
+                  <strong>お客様の権利.</strong>{" "}
+                  お客様の所在地や現地の適用法に応じて、お客様は個人情報に関する特定の権利
+                  (通知を受ける権利、アクセス権、修正する権利、消去する権利、異議を唱える権利など)
+                  を有する場合があります。以下にある米国の消費者向けの追加情報を参照してください。
                 </li>
               </ol>
               <p>
-                We encourage you to read our full Privacy Notice and the&nbsp;
+                お客様の個人情報の使用方法とお客様のデータに対するお客様の権利を深く理解するために、当社の完全なプライバシー通知及び以下にリンクされている&nbsp;
                 <a
                   href={getModifiedFileName(
                     `/files/ja/${localString?.["cookiePolicy"]}`
@@ -128,188 +104,131 @@ const PrivacyPolicyPageJa = () => {
                   }}
                   download
                   target="_blank"
-                  rel="noreferrer"
                 >
-                  Cookie Policy
+                  クッキーポリシー
                 </a>
-                &nbsp; linked below to understand in depth the way we will use
-                your Personal Information and your rights over your data.
+                &nbsp;をお読みになることをお勧めします。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Our promise</h3>
+              <h3 className={styles["contentTitle"]}>当社の約束</h3>
               <p>
-                Here in Hydrafacial, we are committed to protecting your
-                Personal Information, and we will always treat it with respect
-                and design our products and services with your privacy in mind.
+                Hydrafacialでは、お客様の個人情報の保護に努めており、常にお客様のプライバシーを尊重して取り扱い、お客様のプライバシーを念頭に置いて製品及びサービスを設計します。
               </p>
               <p>
-                Hydrafacial is a flagship brand of The Beauty Health Company
-                (hereinafter “Hydrafacial”, “our”, “us” or “we”). Hydrafacial is
-                a global category-creating company focused on delivering beauty
-                health experiences by reinventing our consumer’s relationship
-                with their skin, their bodies and their self-confidence.
+                Hydrafacialは、The Beauty Health Company
+                (以下「Hydrafacial」、「当社の」、「当社」または「当社」という。)
+                のフラッグシップブランドです。Hydrafacialは、消費者の肌、体、自信との関係を改革することで、美容と健康の体験を提供することに焦点を当てたグローバルなカテゴリー創造企業です。
               </p>
               <p>
-                The flagship brand, HydraFacial, created the category of
-                hydradermabrasion by using a Vortex-Fusion Delivery System to
-                cleanse, peel, exfoliate, extract, infuse, and hydrate the skin
-                with proprietary solutions and serums.
+                フラッグシップブランドであるHydraFacialは、独自の溶液とセラムで肌に対しクレンジング、ピーリング、角質除去、抽出、注入、水分補給することで、ハイドロダーマブレーションのカテゴリーを創造しました。
               </p>
               <p>
-                This Privacy Notice covers the Personal Information that
-                Hydrafacial, its subsidiaries and affiliates located worldwide
-                within The Beauty Health Company family of companies
-                (“Affiliates”) collect and process through the different means.
+                本プライバシー通知は、Hydrafacial、その子会社およびThe Beauty
+                Health Company
+                の系列会社として世界中にある関連会社（以下「関連会社」という。）が、さまざまな手段で収集し処理する個人情報を対象としています。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Definitions</h3>
+              <h3 className={styles["contentTitle"]}>定義</h3>
               <p>
-                “Personal Information or personal data” means information that
-                (either in isolation or in combination with other information)
-                enables you to be directly or indirectly identified.
+                「個人情報または個人データ」とは、(単独で、または他の情報と組み合わせて)
+                直接的または間接的に個人を識別できる情報を意味します。
               </p>
               <p>
-                “Controller” is a party that sets out the purposes and means of
-                processing of personal data.
+                「管理者」とは、個人データの処理の目的と手段を定める当事者です。
               </p>
               <p>
-                “Processor or a Service Provider/Contractor/Third Party” is a
-                party that processes Personal Information on the Controller’s
-                behalf.
+                「処理者またはサービスプロバイダー/請負業者/第三者」は、管理者に代わって個人情報を処理する当事者です。
               </p>
               <p>
-                “Client or Consumer” individual that receives a Hydrafacial
-                treatment.
+                「クライアントまたは消費者」
+                とは、ハイドラフェイシャル治療を受ける個人です。
               </p>
               <p>
-                “Treatment provider” professional that performs a Hydrafacial
-                treatment.
+                「トリートメントプロバイダー」とは、ハイドラフェイシャル治療を行う専門家です。
               </p>
               <p>
-                “Provider or Customer” clinic or center that provides
-                Hydrafacial treatments.
+                「プロバイダーまたはコスチュマー」とは、ハイドラフェイシャル治療を提供するクリニックまたはセンターです。　
               </p>
             </div>
             <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Data we collect</h3>
+              <h3 className={styles["contentTitle"]}>当社が収集するデータ </h3>
               <p>
-                In order to provide you with our products and/or services, we
-                will need to process your personal data. The personal
-                information we collect about you may include:
+                当社の製品および/またはサービスを提供するために、お客様の個人データを処理する必要があります。当社がお客様について収集する個人情報には、以下が含まれます。
               </p>
               <ul>
                 <li>
-                  Your contact details, such as your full name, physical and
-                  email addresses, phone number(s), clinic/center name & details
-                  – including, if you are an esthetician, the name of your
-                  business or employer, address and phone number in order to do
-                  business with you.
+                  お客様のフルネーム、住所と電子メールアドレス、電話番号、クリニック/センターの名前と詳細（お客様がエステティシャンの場合、お客様とビジネス取引を行うためにお客様のビジネスや雇用主の名前、住所と電話番号を含む。）などのお客様の連絡先
                 </li>
                 <li>
-                  Your account information, such as your email address, full
-                  name, username & password, phone number, date of birth, ZIP
-                  code & personal image when you provide it to us for setting-up
-                  an account.
+                  アカウントを設定する際に当社に提供された電子メールアドレス、フルネーム、ユーザー名とパスワード、電話番号、生年月日、郵便番号、個人画像などのアカウント情報
+                </li>
+                <li>採用プロセスで提供されたお客様の履歴書情報とデータ</li>
+                <li>
+                  Hydrafacialアカウントを保有している場合、お客様の受けた治療の種類、アドオンの調整、および使用された製品（該当する場合）などの治療履歴*
                 </li>
                 <li>
-                  Your CV information and data provided during the recruitment
-                  process.
+                  お客様の発注書を完了するための支払い情報および/または銀行の詳細
                 </li>
                 <li>
-                  Your treatment history*, such as type of treatment received,
-                  any add-ons adjustments, and the products used (as applicable)
-                  when you have a Hydrafacial account.
+                  当社のオンラインサービスを使用する際のIPアドレス、オペレーティングシステム、デバイス、および場所を含むマシン識別子
                 </li>
                 <li>
-                  Your payment information and/or banking details in order to
-                  complete your purchase orders.
-                </li>
-                <li>
-                  Machine identifiers include: your IP address, operating
-                  system, device, and location when you use our online services.
-                </li>
-                <li>
-                  Information about how you interacted with us, our websites and
-                  our services.
+                  お客様が当社、当社のウェブサイト、および当社のサービスとどのようにやり取りをしたかという情報。
                 </li>
               </ul>
               <p>
-                *Consumers have the option to share their treatment history with
-                the treatment providers. Likewise, when treatment providers use
-                a HydraFacial device, they have the option to sync their
-                application account with the device in order to have a record of
-                the providers’ treatment history. Treatment providers will see
-                aggregated treatment data on treatments they have given. No
-                Personal Information is tied to the treatments that the
-                treatment provider sees.
+                *消費者は、治療歴を治療提供者と共有するオプションがあります。同様に、治療プロバイダーが
+                HydraFacial
+                デバイスを使用する場合、プロバイダーの治療履歴を記録するために、アプリケーションアカウントをデバイスと同期させるオプションがあります。治療提供者は、行った治療に関する集約された治療データを見ることができます。治療提供者が扱う治療に個人情報は連結されていません。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
               <h3 className={styles["contentTitle"]}>
-                How we collect your data
+                お客様のデータの収集方法　
               </h3>
               <p>
-                We will collect data from you, from your use of our services and
-                from external sources (e.g., publicly accessible sources).
+                当社は、お客様、お客様の当社のサービスの使用、および外部ソース
+                (公的にアクセス可能なソースなど) からデータを収集します。
               </p>
-              <p>We will collect your personal data when:</p>
+              <p>当社は、以下の場合にお客様の個人データを収集します。</p>
               <ul>
                 <li>
-                  You register for information about our products or other
-                  services.
+                  お客様が当社の製品またはその他のサービスに関する情報のために登録した場合
                 </li>
                 <li>
-                  You interact with us or make enquiries including through
-                  social media.
+                  お客様がソーシャルメディアを介することを含め、当社とやり取りしたまたは当社に問い合わせた場合
                 </li>
-                <li>You make a purchase.</li>
-                <li>You use our product or services.</li>
-                <li>You create or update your account.</li>
-                <li>You use the Hydrafacial app features.</li>
+                <li>お客様が購入を行った場合</li>
+                <li>お客様が当社の製品またはサービスを利用した場合</li>
+                <li>お客様がアカウントを作成または更新した場合</li>
+                <li>お客様がHydrafacialアプリの機能を使用した場合</li>
+                <li>お客様が求職者であるか、採用活動中である場合</li>
+                <li>お客様がコミュニケーションやアンケートに回答された場合</li>
                 <li>
-                  You are a job applicant or you are in the recruitment process.
+                  お客様が当社のウェブサイトまたはオンラインサービスをナビゲートする場合
                 </li>
-                <li>You respond to communications or surveys.</li>
-                <li>You navigate through our website or online services.</li>
               </ul>
               <p>
-                We collect data about you using technology such as cookies and
-                device fingerprinting, in other words, techniques used to
-                combine information that help us identify your device.
+                当社は、Cookieやデバイスフィンガープリントなどの技術、つまり、お客様のデバイスを識別するのに役立つ情報を組み合わせるために使用される技術を使用して、お客様に関するデータを収集します。
               </p>
               {/* eslint-disable-next-line react/no-unescaped-entities */}
               <p>
-                You have the ability to accept or decline cookies from any
-                website by modifying the settings in your browser. If you wish
-                to restrict or block the cookies which are set by our website,
-                you can do this through your browser settings. For information
-                about how to manage and disable cookies you can use the 'Help'
-                function within your browser or please visit
-                <a
-                  href="https://www.aboutcookies.org/"
-                  target={"_blank"}
-                  rel="noreferrer"
-                >
+                お客様は、ブラウザの設定を変更することで、任意のウェブサイトからのCookieを受け入れるまたは拒否することができます。当社のウェブサイトによって設定された
+                Cookieを制限またはブロックしたい場合は、ブラウザの設定からこれを行うことができます。Cookieの管理および無効化の方法については、ブラウザ内の「ヘルプ」機能を使用するか、
+                <a href="https://www.aboutcookies.org/" target={"_blank"}>
                   https://www.aboutcookies.org/
-                </a>{" "}
-                or{" "}
-                <a
-                  href="https://www.allaboutcookies.org/"
-                  target={"_blank"}
-                  rel="noreferrer"
-                >
+                </a>
+                、 または{" "}
+                <a href="https://www.allaboutcookies.org/" target={"_blank"}>
                   https://www.allaboutcookies.org/
                 </a>
-                . However, please note that by deleting or disabling cookies
-                this could affect the functionality of our website and you may
-                not be able to access certain areas or features of our site.
+                .{" "}
+                をご覧ください。ただし、Cookieを削除または無効にすると、当社のウェブサイトの機能に影響を与える可能性があり、当社のサイトの特定の領域や機能にアクセスできない場合がありますのでご注意ください。
               </p>
               <p>
-                If you would like information about how we use cookies and
-                similar devices that may be installed on the terminals of our
-                customers and users, we recommend you consult our&nbsp;
+                お客様およびユーザーの端末にインストールされる可能性のあるクッキーや類似のデバイスの使用方法に関する情報をご希望の場合は&nbsp;
                 <a
                   href={getModifiedFileName(
                     `/files/ja/${localString?.["cookiePolicy"]}`
@@ -320,204 +239,129 @@ const PrivacyPolicyPageJa = () => {
                   }}
                   download
                   target="_blank"
-                  rel="noreferrer"
                 >
-                  Cookie Policy
+                  Cookieポリシー
                 </a>
-                .
+                を参照することをお勧めします。
               </p>
-            </div>
-            <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>How we use your data</h3>
-              <p>
-                Your data could be used for a variety of reasons under various
-                legal basis, such as:
-              </p>
-              <ul>
-                <li>
-                  Contact you to provide you with the information requested -
-                  based on your consent.
-                </li>
-                <li>
-                  Process your payment for orders and for other business and
-                  accounting purposes – based on a legal obligation and/or the
-                  performance of a contract.
-                </li>
-                <li>
-                  Provide customer service – based on a legal obligation and/or
-                  the performance of a contract.
-                </li>
-                <li>
-                  Process your request to conduct business with us – based on
-                  consent.
-                </li>
-                <li>
-                  Account creation, update, support and management – based on
-                  consent and the performance of a contract.
-                </li>
-                <li>
-                  Keeping you informed about promotions and new developments by
-                  email, telephone, SMS, social media or post, and inviting you
-                  through email/SMS to create an account when you use our
-                  product or services (dependent on your preferences) – based on
-                  consent or legitimate interest where applicable.
-                </li>
-                <li>
-                  Provide you and other customers with relevant information
-                  through our marketing program – based on legitimate interest.
-                </li>
-                <li>
-                  Review your professional profile and background when you apply
-                  for a job and during the recruitment process to select the
-                  right candidate.
-                </li>
-                <li>
-                  Undertaking market research, product development and
-                  statistical purposes -based on legitimate interest.
-                </li>
-                <li>
-                  Fraud detection and prevention, unauthorized access to the
-                  product and/or services, and other illegal activities – based
-                  on legitimate interest.
-                </li>
-                <li>
-                  Administering debt recoveries – based on legitimate interest.
-                </li>
-                <li>
-                  For assessment and analysis to enable us to review, develop
-                  and improve the services we offer – based on legitimate
-                  interest.
-                </li>
-              </ul>
-              <p>
-                As said, sometimes we need to use your personal data for
-                legitimate business purposes to ensure that we continue to
-                provide a great customer experience. In every instance, we will
-                always balance our interests against yours.
-              </p>
-              <p>
-                The processes below are considered examples of our legitimate
-                interests:
-              </p>
-              <ul>
-                <li>
-                  Fraud detection and prevention across Hydrafacial, which may
-                  include conducting checks against publicly available
-                  information and social media profiles.
-                </li>
-                <li>
-                  Engaging and contacting you to ensure you have a good
-                  experience as a Hydrafacial customer.
-                </li>
-                <li>
-                  Internally auditing our processes to maintain our high
-                  standards.
-                </li>
-                <li>Some of our marketing activities.</li>
-                <li>
-                  Sharing data with selected third parties in order to add value
-                  to our products.
-                </li>
-              </ul>
-              <p>
-                Hydrafacial may contact you from time to time to ask you to take
-                part in a survey, in order to enable us to review, develop and
-                improve our services.
-              </p>
-              <p>
-                Your survey responses, including any personal data provided,
-                will only be used by Hydrafacial for the purposes stated within
-                this Privacy Notice statement. Personal data can include (but is
-                not restricted to) your name, age and e-mail address. We may
-                also collect special category personal data, depending on the
-                survey to which you are responding.
-              </p>
-            </div>
-            <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Sharing data </h3>
-              <p>We do not sell your personal information to third parties.</p>
-              <p>
-                We may employ other companies, including Processors (service
-                providers), to perform functions on our behalf. We may share
-                your Personal Information with these Processors who assist us
-                with our business functions, such as payment processing,
-                packaging, and shipping; law firms, consultants, auditors in
-                case needed; CRM services, e-mail services, product feedback or
-                help desk software; website analytics. If Hydrafacial receives
-                your Personal Information and subsequently transfers that
-                information to a Processor for processing, Hydrafacial remains
-                responsible for ensuring that such Processor processes your
-                Personal Information to the standard required by the applicable
-                privacy laws, including the European General Data Protection
-                Regulation (“GDPR”). These transfers will typically be based on
-                our legitimate interests or agreed upon in the Agreement.
-              </p>
-              <p>
-                It may be necessary to transfer your personal data to other
-                Group companies or service providers located in the United
-                States. In these instances we will take steps to ensure that
-                your data is given an adequate level of protection according to
-                the applicable regulations and for purposes consistent with this
-                Privacy Notice and based on our legitimate interest or
-                contractual necessity.
-              </p>
-              <p>
-                There are also some circumstances where we will share your data
-                with external companies. At all time, privacy remains paramount
-                and we will endeavour to minimize the data shared at every
-                opportunity.
-              </p>
-              <p>These circumstances include:</p>
-              <ul>
-                <li>
-                  Sharing with carefully selected partners in order to add value
-                  to our products.
-                </li>
-                <li>
-                  Sharing with third parties so they can provide you with
-                  surveys.
-                </li>
-                <li>
-                  Building a marketing profile to find similar customers with
-                  similar needs.
-                </li>
-              </ul>
-              <p>
-                As well as what’s been mentioned above, there are further
-                scenarios where we would have to share your data. These may
-                include:
-              </p>
-              <ul>
-                <li>Where we are legally compelled to do so.</li>
-                <li>Where there is a duty to the public to disclose.</li>
-                <li>Where disclosure is required to protect our interest.</li>
-                <li>
-                  Where disclosure is made at your request or with your consent.
-                </li>
-              </ul>
             </div>
             <div className={styles["contentContainer"]}>
               <h3 className={styles["contentTitle"]}>
-                International Transfers
+                お客様のデータの使用方法
               </h3>
               <p>
-                Hydrafacial is a company operating globally. Therefore, personal
-                data of individuals who visit our websites and/or who use or buy
-                our product or services, or otherwise interact with us, may be
-                transferred and accessed from around the world, such as from
-                countries where Hydrafacial, its Affiliates, or our processors
-                operate.
+                お客様のデータは、次のようなさまざまな法的根拠の下で、さまざまな理由で使用される可能性があります。
+              </p>
+              <ul>
+                <li>
+                  お客様の同意に基づいて、要求された情報を提供するためにお客様に連絡するため
+                </li>
+                <li>
+                  法的義務および/または契約の履行に基づいて、注文およびその他のビジネスおよび会計目的のための支払いを処理するため
+                </li>
+                <li>
+                  法的義務および/または契約の履行に基づいて、顧客サービスを提供するため
+                </li>
+                <li>
+                  同意に基づいて、当社とビジネスを行うためのリクエストを処理するため
+                </li>
+                <li>
+                  同意と契約の履行に基づいて、アカウントの作成、更新、サポート、管理をするため
+                </li>
+                <li>
+                  同意または正当な利益に基づいて該当する場合、電子メール、電話、SMS、ソーシャルメディア、または投稿でプロモーションや新しい開発について通知し、お客様が当社の製品またはサービスを使用する際にアカウントを作成するように電子メール/SMSを通じてお客様を招待するため
+                  (お客様の好みに応じる)
+                </li>
+                <li>
+                  正当な利益に基づいて、当社のマーケティングプログラムを通じて、お客様および他の顧客に関連情報を提供するため
+                </li>
+                <li>
+                  適切な候補者を選択するために、仕事に応募するときや採用プロセス中にお客様のプロフェッショナルプロフィールと背景をレビューするため
+                </li>
+                <li>
+                  正当な利益に基づいて、市場調査、製品開発、統計目的のため
+                </li>
+                <li>
+                  正当な利益に基づいて、詐欺の検出と防止、製品および/またはサービスへの不正アクセス、およびその他の違法行為のため
+                </li>
+                <li> 正当な利益に基づいて、債務回収の管理のため</li>
+                <li>
+                  正当な利益に基づいて、当社が提供するサービスをレビュー、開発、改善するための評価と分析のため。
+                </li>
+              </ul>
+              <p>
+                前述のとおり、お客様に優れた体験を提供し続けるために、正当なビジネス目的でお客様の個人データを使用する必要があることがあります。いずれの場合も、当社は常に当社の利益とお客様の利益のバランスを取っています。
+              </p>
+              <p>以下のプロセスは、当社の正当な利益の例と見なされます。</p>
+              <ul>
+                <li>
+                  一般に公開されている情報やソーシャルメディアプロファイルに対するチェックの実施を含む、Hydrafacial全体にわたる詐欺の検出と防止　
+                </li>
+                <li>
+                  Hydrafacialの顧客として良い経験を確実にするために、お客様と関わり、連絡をとる
+                </li>
+                <li>高い基準を維持するためにプロセスの内部監査を行う</li>
+                <li>当社のマーケティング活動の一部</li>
+                <li>
+                  当社の製品の付加価値のために、選択した第三者とデータを共有する
+                </li>
+              </ul>
+              <p>
+                Hydrafacial
+                は、サービスの見直し、開発及び向上を可能にするために、時々お客様にアンケートへの参加のお願いを連絡する場合があります。
               </p>
               <p>
-                We will protect your Personal Information in accordance with
-                this Privacy Notice wherever it is processed. We do not
-                voluntarily or actively transfer or disclose our customers’
-                Personal Information to the government or law enforcement
-                authorities (“Authorities”) and/or otherwise grant any
-                Authorities access to your Personal Information. In the event of
-                a request from the Authority, we have procedures and controls in
-                place to make sure that any such request is assessed according
-                to the procedure outlined in our &nbsp;
+                提供された個人データを含むアンケートの回答は、本プライバシー通知の声明に記載されている目的のためにのみHydrafacialによって使用されます。
+                個人データには、名前、年齢、電子メールアドレスが含まれます
+                (ただし、これらに限定されません)。
+                また、お客様が回答するアンケートに応じて、特別なカテゴリの個人データを収集する場合があります。
+              </p>
+            </div>
+            <div className={styles["contentContainer"]}>
+              <h3 className={styles["contentTitle"]}>データの共有 </h3>
+              <p>
+                当社は、お客様の個人情報を第三者に販売することはありません。
+              </p>
+              <p>
+                当社は、当社に代わって機能を実行するために、処理者
+                (サービスプロバイダー)
+                を含む他の企業を採用する場合があります。当社は、支払い処理、梱包、出荷などのビジネス機能、法律事務所、コンサルタント、及び監査人（必要に応じて）、CRMサービス、電子メールサービス、製品フィードバックまたはヘルプデスクソフトウェア、ウェブサイト分析をサポートするこれらの処理者と、お客様の個人情報を共有する場合があります。Hydrafacialがお客様の個人情報を受信し、その後処理のためにその情報を処理者に転送する場合、Hydrafacialは、かかる処理者が欧州一般データ保護規則(以下「GDPR」という。)を含む適用されるプライバシー法で要求される基準に従って、お客様の個人情報を処理することを保証する責任を負います。これらの転送は、通常、当社の正当な利益に基づいた転送、又は本契約で合意された転送です。
+              </p>
+              <p>
+                お客様の個人データを米国に所在する他のグループ会社またはサービスプロバイダーに転送する必要がある場合があります。このような場合、当社は、適用される規制に従って、本プライバシー通知と一致する目的のために、また当社の正当な利益または契約上の必要性に基づいて、お客様のデータが適切なレベルの保護を受けられるようにするための措置を講じます。
+              </p>
+              <p>
+                また、当社がお客様のデータを外部企業と共有する状況もありますが、常にプライバシーが最も重要であり、当社は共有されるデータをあらゆる機械で最小限に抑えるよう努めます。
+              </p>
+              <p>これらの状況は以下を含みます。</p>
+              <ul>
+                <li>
+                  当社の製品に価値を付加するために、厳選されたパートナーと共有する。
+                </li>
+                <li>アンケートの提供を可能にするために、第三者と共有する。</li>
+                <li>
+                  同様のニーズを持つ同様の顧客を見つけるためのマーケティングプロファイルを構築する。
+                </li>
+              </ul>
+              <p>
+                上記と同様に、当社がお客様のデータを共有しなければならないシナリオがさらに存在します。これらには以下が含まれます。
+              </p>
+              <ul>
+                <li>法的に共有せざるを得ない場合</li>
+                <li>公衆に対して開示する義務がある場合</li>
+                <li>当社の利益を保護するために開示が必要な場合</li>
+                <li>お客様の要求またはお客様の同意を得て開示が行われる場合</li>
+              </ul>
+            </div>
+            <div className={styles["contentContainer"]}>
+              <h3 className={styles["contentTitle"]}>国際送金</h3>
+              <p>
+                Hydrafacialはグローバルに事業を展開している企業です。したがって、当社のウェブサイトを訪問する個人、および/または当社の製品またはサービスを利用または購入する個人、あるいはその他の方法で当社とやり取りする個人の個人データは、Hydrafacial、その関連会社、または当社のプロセッサーが事業を運営している国など、世界中から転送およびアクセスされる場合があります。
+              </p>
+              <p>
+                当社は、処理が行われるすべての場所で、本プライバシー通知に従ってお客様の個人情報を保護します。当社は、お客様の個人情報を政府または法執行機関(以下「当局」という。)
+                に自発的または積極的に転送または開示したり、当局にお客様の個人情報へのアクセスを許可したりすることはありません。当局からの要請があった場合、当社は、かかる要請が
+                &nbsp;
                 <a
                   href={getModifiedFileName(
                     `/files/ja/${localString?.["transparencyReport"]}`
@@ -528,55 +372,47 @@ const PrivacyPolicyPageJa = () => {
                   }}
                   download
                   target="_blank"
-                  rel="noreferrer"
                 >
-                  Transparency Report
+                  透明性レポート
                 </a>
-                .
+                に概説されている手順に従って評価されることを確認するための手順と管理を実施しています。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
               <h3
                 className={`${styles["contentTitle"]} ${styles["contentSubTitle"]}`}
               >
-                Information for individuals in the European Economic Area
-                (“EEA”) or in the United Kingdom (“UK”)
+                欧州経済領域 (以下「EEA」という。) または英国
+                (以下「英国」という。) の個人向けの情報
               </h3>
               <p className={styles["sectionDescription"]}>
-                Operating globally, Hydrafacial may transfer Personal
-                Information from the EEA or the UK to the United States and
-                other countries, including Personal Information we receive from
-                individuals residing in the EEA or the UK who visit our websites
-                and/or who may buy our product or use our services, or otherwise
-                interact with us.
+                グローバルに事業を展開するHydrafacialは、EEA
+                または英国に居住し、当社のウェブサイトを訪問する、当社の製品を購入する、当社のサービスを使用する、またはその他の方法で当社とやり取りする可能性のある個人から受け取る個人情報を含む個人情報を、EEAまたは英国から米国およびその他の国に転送することがあります。
               </p>
               <p className={styles["sectionDescription"]}>
-                When Hydrafacial engages in such transfers of Personal
-                Information, it relies on:
+                Hydrafacialがかかる個人情報の転送を行う場合、以下に依存します。
               </p>
               <ul>
                 <li className={styles["sectionDescription"]}>
-                  Adequacy Decisions, as adopted by:
+                  以下により採択された十分性認定
                   <ul>
                     <li className={styles["sectionDescription"]}>
-                      European Commission (“EC”), based on Article 45 of
-                      Regulation (EU) 2016/679 (GDPR) – for more information,
-                      and to access the full list of countries deemed adequate
-                      to date, please visit
+                      規制 (EU) 2016/679(GDPR) の第45条に基づいて、欧州委員会
+                      (以下「EC」という。) が採択 –
+                      詳細について、およびこれまでに十分であるとみなされた国の完全なリストにアクセスするには、
                       <a
                         href="https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions"
                         target="_blank"
                         rel="noreferrer"
                       >
                         https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions
-                      </a>
-                      .
+                      </a>{" "}
+                      をご覧ください。
                     </li>
                     <li className={styles["sectionDescription"]}>
-                      UK Secretary of State, based on Article 45 of the UK GDPR
-                      and Section 17A of the Data Protection Act 2018 - for more
-                      information, and to access the full list of countries
-                      deemed adequate to date, please visit
+                      英国GDPR第45条および2018年データ保護法第17A条に基づいて、英国国務大臣
+                      が採択 –
+                      詳細について、およびこれまでに十分であるとみなされた国の完全なリストにアクセスするには、
                       <a
                         href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers/"
                         target="_blank"
@@ -584,10 +420,10 @@ const PrivacyPolicyPageJa = () => {
                       >
                         https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers/
                       </a>
-                      ; or
+                      をご覧ください。
                     </li>
                     <li className={styles["sectionDescription"]}>
-                      The EC’s &nbsp;
+                      EC&nbsp;
                       <a
                         href={getModifiedFileName(
                           `/files/ja/${localString?.["standardContractualClauses"]}`
@@ -598,24 +434,22 @@ const PrivacyPolicyPageJa = () => {
                         }}
                         download
                         target="_blank"
-                        rel="noreferrer"
                       >
-                        Standard Contractual Clauses
+                        の標準契約条項
                       </a>
-                      &nbsp; (“SCCs”) and the UK Information Commissioner’s
-                      Office’s International Data Transfer Addendum (“IDTA”), as
-                      applicable, supplemented by additional security measures
-                      as recommended by the European Data Protection Board.
+                      &nbsp; (以下「SCC」という。)
+                      および英国情報コミッショナー事務所の国際データ転送補遺
+                      (以下「IDTA」という。)
+                      は、必要に応じて、欧州データ保護委員会が推奨する追加のセキュリティ対策によって補完されます。
                     </li>
                   </ul>
                 </li>
               </ul>
               {/*eslint-disable-next-line react/no-unescaped-entities*/}
               <p className={styles["sectionDescription"]}>
-                The EC’s and the UK’s Information Commissioner’s Office ("ICO”)
-                have determined that the SCCs and IDTA may provide sufficient
-                safeguards to protect personal data transferred outside the EEA
-                and the UK. For more information, please visit
+                EC および英国の情報コミッショナー事務局 (以下「ICO」という。)
+                は、SCC および IDTA が、EEA
+                および英国外に転送される個人データを保護するための十分な保護手段を提供できると判断しました。詳細については
                 <a
                   href="         https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
                   target="_blank"
@@ -623,262 +457,163 @@ const PrivacyPolicyPageJa = () => {
                 >
                   https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
                 </a>{" "}
-                and
+                および
                 <a
                   href="  https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-data-transfer-agreement-and-guidance/"
                   target="_blank"
                   rel="noreferrer"
                 >
                   https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-data-transfer-agreement-and-guidance/
-                </a>
-                .
+                </a>{" "}
+                をご覧ください。
               </p>
               <p className={styles["sectionDescription"]}>
-                Hydrafacial performs transfers impact assessments and
-                continually monitors the circumstances surrounding such
-                transfers to ensure that these maintain, in practice, a level of
-                protection that is essentially equivalent to the one guaranteed
-                by the European and UK data protection laws.
+                Hydrafacial
+                は転送の影響評価を実施し、実際にヨーロッパおよび英国のデータ保護法によって保証されているレベルと本質的に同等の保護レベルを維持していることを確認するために、かかる転送を取り巻く状況を継続的に監視しています。
               </p>
               <p className={styles["sectionDescription"]}>
-                We apply the same conditions and requirements described in this
-                Privacy Notice for all international data transfers, regardless
-                of location, with adequate safeguards and always keeping your
-                personal information safe, using the most convenient
-                international data transfer tools, in accordance with the model
-                contract prepared by regulators.
+                すべての国際的なデータ転送について、場所に関係なく適切な保護手段を備え、常にお客様の個人情報を安全に保ちつつ、規制当局が作成したモデル契約に従って、最も便利な国際データ転送ツールを使用して本プライバシー通知に記載されているのと同じ条件と要件を適用します。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
               <h3
                 className={`${styles["contentTitle"]} ${styles["contentSubTitle"]}`}
               >
-                Information for individuals in China, South Korea and Indonesia
+                中国、韓国、インドネシアの個人向けの情報
               </h3>
               <p className={styles["sectionDescription"]}>
-                Where personal data is processed, it is stored on local servers
-                in each country, with no cross-border data transfers to third
-                countries.
+                個人データが処理される場所では、個人データは各国の現地サーバーに保存され、国境を越えて第三国にデータが転送されることはありません。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Protecting your data</h3>
+              <h3 className={styles["contentTitle"]}>お客様のデータの保護</h3>
               <p>
-                Hydrafacial strives to implement appropriate technical and
-                organizational measures in order to protect your personal data
-                against accidental or unlawful destruction, accidental loss or
-                alteration, unauthorized disclosure or access and any other
-                unlawful forms of processing. We aim to ensure that the level of
-                security and the measures adopted to protect your personal data
-                are appropriate for the risks presented by the nature and use of
-                your personal data. We follow recognized industry practices for
-                protecting our IT environment and physical facilities. Some of
-                these measures are:
+                Hydrafacial
+                は、偶発的または違法な破壊、偶発的な紛失または改ざん、不正な開示またはアクセス、およびその他の違法な形式の処理からお客様の個人データを保護するために、適切な技術的および組織的対策を実施するよう努めています。当社は、お客様の個人データを保護するために採用されたセキュリティのレベルと対策が、お客様の個人データの性質および使用によってもたらされるリスクに対して適切であることを保証することを目指しています。当社は、IT
+                環境と物理的施設を保護するために、認められている業界慣行に従います。これらの対策のいくつかは次のとおりです
               </p>
               <ul>
-                <li>Access management</li>
-                <li>VPN (virtual private network) for remote Access</li>
-                <li>Encryption of data at rest and in transit</li>
-                <li>Backup and recovery capabilities</li>
-                <li>Firewalls</li>
-                <li>Antivirus software</li>
-                <li>Multi-factor authentication (MFA)</li>
-                <li>Email security filtering</li>
-                <li>Security awareness training</li>
+                <li>アクセス管理　</li>
+                <li>リモートアクセス用のVPN (仮想プライベートネットワーク) </li>
+                <li>保管中および転送中のデータの暗号化</li>
+                <li>バックアップおよびリカバリ機能</li>
+                <li>ファイアウォール</li>
+                <li>ウイルス対策ソフトウェア</li>
+                <li>多要素認証 (MFA)</li>
+                <li>電子メールのセキュリティフィルタリング</li>
+                <li>セキュリティ意識向上トレーニング</li>
               </ul>
               <p>
-                On our websites and apps, we protect any data you have given us
-                by providing you with a User ID and password. We also use
-                industry standard security to encrypt sensitive data in transit
-                to our servers. The User ID and password helps us to protect
-                your personal data. You must keep this password safe and must
-                not disclose it to anyone.
+                当社のウェブサイトおよびアプリケーションでは、ユーザー
+                IDとパスワードを提供することにより、お客様から提供されたデータを保護しています。また、業界標準のセキュリティを使用して、サーバーへの転送中の機密データを暗号化しています。ユーザー
+                ID
+                とパスワードは、お客様の個人データを保護するのに役立ちます。お客様は、このパスワードは安全に保管しなければならず、また誰にも開示してはなりません。
               </p>
               <p>
-                Some suspicious emails contain attachments or links to websites
-                that try to install malicious software on your computer. If you
-                have entered your password on what you think might be a
-                malicious website, please contact us immediately and ask us to
-                change your password.
+                不審な電子メールの中には、お客様のコンピューターに悪意のあるソフトウェアをインストールしようとする添付ファイルまたはウェブサイトへのリンクが含まれているものがあります。
+                悪意のあるウェブサイトと思われるサイトでパスワードを入力してしまった場合は、すぐに当社にご連絡いただき、パスワードの変更を依頼してください。
               </p>
               <p>
-                If you have entered your payment card information on what you
-                think might be a malicious website or replied to an e-mail with
-                that information, you should contact your credit card company
-                immediately. Do not forget to contact us to update your card
-                details.
+                悪質なウェブサイトと思われるサイトに決済用カード情報を入力した場合、又はカード情報を記載してメールに返信してしまった場合は、すぐにクレジットカード会社に連絡する必要があります。また、カード情報を更新するために、必ず当社にご連絡ください。
               </p>
               <p>
-                When you ask for a quote from us, we will process the data on a
-                secure server. Your browser will confirm that you are in a
-                secure area by displaying an unbroken key or lock in the bottom
-                right-hand corner of your browser window.
+                お客様が当社に見積もりを依頼すると、当社は安全なサーバー上でデータを処理します。お客様が使用されるブラウザは、壊れていない鍵またはロックをブラウザウィンドウの右下隅に表示することにより、安全な領域にいることを確認します。
               </p>
               <p>
-                Many organisations use security features such as firewalls to
-                protect their computer systems. These firewalls may prevent you
-                from connecting to our secure server. If you are at work and
-                cannot connect to our web site, please speak to your IT
-                administrator.
+                多くの組織では、コンピューターシステムを保護するために、ファイアウォールなどのセキュリティ機能を使用しています。これらのファイアウォールにより、当社のセキュアサーバーへの接続が妨げられる場合があります。職場で当社のウェブサイトに接続できない場合は、IT
+                管理者に相談してください。
               </p>
               <p>
-                Please be aware that communications over the Internet, such as
-                emails, are not secure unless they have been encrypted. Your
-                communications may route through a number of countries before
-                being delivered - this is the nature of the Internet. We cannot
-                accept responsibility for any unauthorized access or loss of
-                personal information that is beyond our control.
+                電子メールなどのインターネット上の通信は、暗号化されていない限り安全ではないことに注意してください。お客様の通信は、配信される前に多くの国を経由する場合がありますが、これはインターネットの性質です。当社は、当社の管理が及ばない不正アクセスまたは個人情報の紛失について責任を負うことはできません。
               </p>
               <p>
-                Additionally, you can protect your system by installing
-                anti-virus and running scans as recommended by the vendor. You
-                should also run any security updates / patches you receive for
-                your system from the supplier.
+                さらに、アンチウィルスをインストールし、ベンダーが推奨するスキャンを実行することで、システムを保護することができます。また、供給元から受け取ったシステムのセキュリティアップデートやパッチも実行する必要があります。
               </p>
               <p>
-                Never respond to unsolicited emails from unfamiliar sources.
-                Such emails may be fraudulent and attempt to get you to provide
-                your personal details or payment information.
+                見慣れない送信元からの未承諾メールには、絶対に返信しないでください。このようなメールは、個人情報や支払い情報を提供させようとする詐欺的なものである可能性があります。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
               <h3 className={styles["contentTitle"]}>
-                How long do we keep your data
+                お客様のデータの保持期間
               </h3>
               <p>
-                We will not process your Personal Information for longer than is
-                necessary nor will we process it for purposes beyond what it was
-                collected for. We store your Personal Information for different
-                time periods depending on the category of Personal Information
-                and the nature of relationship that you have with us. We
-                determine how long we need Personal Information on a
-                case-by-case basis, but our goal is to keep your Personal
-                Information for as short period as possible to achieve the
-                purpose for which Personal Information is collected.
+                当社は、お客様の個人情報を必要以上に長く処理することはなく、また収集された目的以外の目的で処理することもありません。当社は、個人情報のカテゴリーおよびお客様と当社との関係の性質に応じて、さまざまな期間、お客様の個人情報を保管します。当社は、個人情報の必要期間をケースバイケースで判断しますが、個人情報を収集した目的を達成するために、できるだけ短い期間、お客様の個人情報を保持することを目標としています。
               </p>
               <p>
-                We are subject to various legal requirements concerning
-                retention of data, and also have our own legitimate interests in
-                retaining your data for a period of time. These include defence
-                of any late or delayed claims and improving our products and
-                services.
+                当社は、お客様のデータの保持に関する様々な法的要件の対象となっており、お客様のデータを一定期間保持することについて、当社独自の正当な利益を有しています。これには、遅滞または遅延した請求に対する防御、および当社の製品およびサービスの向上が含まれます。
               </p>
               <p>
-                If you don’t take any action after receiving an email/SMS from
-                Hydrafacial inviting you to create an account, because you have
-                received a Hydrafacial treatment (Syndeo), we will automatically
-                delete your data within a reasonable time.
+                Hydrafacial治療（シンデオ）を受けたことにより、Hydrafacial治療からアカウント作成の案内電子メール・SMSを受け取った後にお客様が何も行動を起こさなかった場合、当社は合理的な時間内にお客様のデータを自動的に削除します。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Children’s privacy</h3>
+              <h3 className={styles["contentTitle"]}>子供のプライバシー</h3>
               <p>
-                We do not knowingly collect any personal information from
-                children under 13, and our products are not intended for
-                purchase or use by children. Parents should be aware that there
-                are parental control tools available online that can be used to
-                prevent children from submitting information online without
-                parental permission or from accessing material that is harmful
-                to minors.
+                当社は、13歳未満の子供から故意に個人情報を収集することはなく、また当社の製品は、子供による購入や使用を意図したものではありません。保護者は、子どもが保護者の許可なくオンラインで情報を送信したり、未成年者にとって有害な素材にアクセスするのを防ぐために使用できるペアレンタルコントロールツールが、オンラインで利用可能であることを認識しておく必要があります。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
               <h3 className={styles["contentTitle"]}>
-                Links to other websites
+                他のウェブサイトへのリンク
               </h3>
               <p>
-                To enhance your Hydrafacial experience, our website may include
-                links to other sites. Those websites will have their own privacy
-                policies that you may wish to review. Hydrafacial has no
-                responsibility for the content hosted on third party linked
-                websites.
+                Hydrafacial体験を向上させるために、当社のウェブサイトには他のサイトへのリンクが含まれていることがあります。これらのウェブサイトには独自のプライバシー
+                ポリシーがあり、確認することをお勧めします。Hydrafacial
+                は、リンクされた第三者のウェブサイトでホストされているコンテンツについて責任を負いません。
               </p>
             </div>
             <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Your rights</h3>
+              <h3 className={styles["contentTitle"]}>お客様の権利 </h3>
               <p>
-                You may have certain rights relating to your Personal
-                Information, depending on your location and subject to local
-                applicable laws. These rights may include, subject to any
-                exceptions or limitations:
+                お客様の所在地や現地の適用法に応じて、お客様は個人情報に関する特定の権利を有する場合があります。これらの権利には、例外または制限を条件として、以下が含まれる場合があります。
               </p>
               <ul>
                 <li>
-                  The right to know what personal data is being collected and
-                  for what purpose.
+                  どの個人データがどのような目的で収集されているかを知る権利
                 </li>
                 <li>
-                  The right to know what personal data is being “sold” or
-                  “shared”, for what purpose and the categories of recipients of
-                  your personal data.
+                  どの個人データがどのような目的で「販売」または「共有」されているか、およびお客様の個人データの受信者のカテゴリを知る権利
                 </li>
-                <li>The right to access your personal data.</li>
+                <li> お客様の個人データにアクセスする権利</li>
+                <li>お客様の個人データの修正、訂正、または更新を求める権利</li>
                 <li>
-                  The right to have your personal data rectified, corrected, or
-                  updated.
+                  データの正確性やデータの使用方法について懸念がある場合など、特定の状況において、お客様の情報の処理を制限するよう当社に依頼する権利
                 </li>
                 <li>
-                  The right to ask us to restrict the processing of your
-                  information in certain circumstances, such as when you are
-                  concerned about the accuracy of the data or how it is being
-                  used.
+                  お客様の個人データが販売、共有、または開示された第三者からのものを含め、お客様の個人データの削除を求める権利
                 </li>
                 <li>
-                  The right to have your personal data deleted, including from
-                  any third parties where your personal data has been sold,
-                  shared or disclosed.
+                  お客様の個人データの「販売」または「共有」をオプトアウトする権利
                 </li>
                 <li>
-                  The right to opt out of the “sale” or “sharing” of your
-                  personal data.
+                  お客様から提供された情報をある組織から別の組織に転送する、または該当する場合、その情報をお客様に提供するように依頼する権利
                 </li>
+                <li> お客様の個人データの処理に異議を唱える権利</li>
                 <li>
-                  The right to ask that we transfer the information you gave us
-                  from one organization to another, or give it to you, where
-                  applicable.
-                </li>
-                <li>
-                  The right to object to the processing of your personal data.
-                </li>
-                <li>
-                  The right not to be subject to any automated decision making
-                  and profiling.
+                  自動化された意思決定およびプロファイリングの対象とならない権利 
                 </li>
               </ul>
               <p>
-                If you would like to: access, review, update, correct, and
-                delete any personal data we hold about you; or exercise any
-                other privacy rights available to you, you can fill out this
-                request form. Please be aware that these rights do not apply in
-                all circumstances; however, where we can we will provide you
-                with what you have requested.
+                お客様が、当社が保持するお客様についての個人データのアクセス、確認、更新、修正、および削除を希望する場合、又は利用可能なその他のプライバシー権の行使を希望する場合は、このリクエストフォーム
+                に必要事項を記入してください。これらの権利はすべての状況に適用されるわけではないことに注意してください。ただし、可能な場合は、お客様が要求されたものを提供します。
               </p>
               <p>
-                Our privacy team will review your verifiable privacy rights
-                request (“Privacy Rights Request”) and respond to you as quickly
-                as possible. If we are unable to comply with your request due to
-                an exception or limitation, we will explain this in writing. If
-                we need more time, we will inform you of the reason and
-                extension period in writing.
+                当社のプライバシー チームは、検証可能なプライバシー権の要求
+                (以下「プライバシー権の要求」という。)
+                を確認し、可能な限り迅速に応答します。例外または制限によりお客様の要求に応じることができない場合は、書面でその旨を説明します。さらに時間が必要な場合は、その理由と延長期間を書面でお知らせします。
               </p>
               <p>
-                If you would like an authorized agent to make a Privacy Rights
-                Request on your behalf, the agent may do so by filling out this
-                request form. We will ask for written, signed permission that
-                the agent has been authorized to act on their behalf. Once
-                written authorization is provided, we will review your Privacy
-                Rights Request and respond to you as quickly as possible. We
-                will respond directly to the e-mail address provided by the
-                authorized agent regarding the fulfillment of the Privacy Rights
-                Request.
+                承認された代理人がお客様に代わってプライバシー権の要求を行うことを希望する場合、代理人はこのリクエストフォームに必要事項を記入することでプライバシー権の要求を行うことができます。当社は、代理人が代理人として行動する権限を与えられていることを示す署名のある書面による許可を求めます。書面による承認が提供された後、当社はお客様のプライバシー権の要求を確認し、できる限り迅速に対応します。当社は、プライバシー権要求の履行に関して、承認された代理人により提供された電子メール
+                アドレスに直接返信します。
               </p>
               <p>
-                We remind you that you have a right to lodge a complaint with a
-                Data Protection Authority (“DPA”) should you feel unsatisfied
-                with our processing of your personal data.
+                当社のお客様の個人情報の取り扱いに不満がある場合は、データ保護機関
+                (以下「DPA」という。)
+                に苦情を申し立てる権利があることをお知らせします。
               </p>
               <p>
-                DPAs in the EEA:
+                欧州経済領域のDPA:
                 <a
                   href="https://edpb.europa.eu/about-edpb/about-edpb/members_es#member-no"
                   target="_blank"
@@ -888,7 +623,7 @@ const PrivacyPolicyPageJa = () => {
                 </a>
               </p>
               <p>
-                DPA in the UK:
+                英国のDPA:
                 <a
                   href="https://ico.org.uk/global/contact-us/"
                   target="_blank"
@@ -898,7 +633,7 @@ const PrivacyPolicyPageJa = () => {
                 </a>
               </p>
               <p>
-                DPA in Switzerland:
+                スイスのDPA:
                 <a
                   href="https://www.edoeb.admin.ch/edoeb/en/home.html"
                   target="_blank"
@@ -912,134 +647,81 @@ const PrivacyPolicyPageJa = () => {
               <h3
                 className={`${styles["contentTitle"]} ${styles["contentSubTitle"]}`}
               >
-                Additional Information for Consumers in the United States
+                米国の消費者向けの追加情報
               </h3>
               <div className={styles["sectionDescription"]}>
                 <p className={styles["sectionDescription"]}>
-                  Under the California Privacy Rights Act (‘CPRA’) and Virginia
-                  Commonwealth Data Protection Act (‘CDPA’), residents of
-                  California and Virginia have certain rights regarding the
-                  Personal Information that businesses collect and process about
-                  them. This includes the rights to request access or deletion
-                  of your personal data, as well as the right to direct a
-                  business to stop selling or sharing your personal data.
+                  カリフォルニア州プライバシー権法 (「CPRA」)
+                  およびバージニア州連邦データ保護法 (「CDPA」)
+                  に基づき、カリフォルニア州およびバージニア州の居住者は、企業が収集および処理する個人情報に関して一定の権利を有します。これには、個人データへのアクセスまたは削除を要求する権利、および個人データの販売または共有を停止するよう企業に指示する権利が含まれます。
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  We are required to detail the categories of personal data that
-                  we collect and/or share for the purposes described in the
-                  section “How We Use Your Data” of this Privacy Notice and, to
-                  the Processors for the purposes mentioned in the section
-                  “Sharing Data”.
+                  当社は、本プライバシー通知の「お客様のデータの使用方法」セクションに説明されている目的のために、および「データの共有」セクションに記載されている目的のために処理者に対し、当社が収集および/または共有する個人データのカテゴリを詳述することが要求されています。
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  We collect and in the past 12 months have collected the
-                  following categories of Personal Information for our business
-                  purposes:
+                  当社は、当社の事業目的のために、次のカテゴリーの個人情報を収集しており、また過去12ヶ月間に収集しました。
                 </p>
                 <ul>
+                  <li className={styles["sectionDescription"]}> 個人識別子</li>
                   <li className={styles["sectionDescription"]}>
-                    Personal Identifiers.
+                    IP アドレスを含む、Cookie
+                    やその他の技術によって収集された情報
                   </li>
                   <li className={styles["sectionDescription"]}>
-                    Information collected by cookies and other technologies,
-                    including IP address.
+                    アカウントログ情報、お客様が閲覧するまたは関与するコンテンツ、アカウント、ブラウザ、およびデバイス情報を含む、インターネットまたはその他の電子ネットワークアクティビティ情報
                   </li>
                   <li className={styles["sectionDescription"]}>
-                    Internet or other electronic network activity information,
-                    including account log information, content you view or
-                    engage with, and account, browser, and device information.
-                  </li>
-                  <li className={styles["sectionDescription"]}>
-                    Inferences drawn from any of the above categories of
-                    Personal Information.
+                    上記のカテゴリの個人情報のいずれかから引き出された推論
                   </li>
                 </ul>
                 <p className={styles["sectionDescription"]}>
-                  While Hydrafacial does not sell personal data in exchange for
-                  any monetary consideration, we do share personal data for
-                  other benefits as defined by Cal. Civ. Code 1798.140(ad)(2).
-                  We have shared in the preceding 12 months personal data as
-                  necessary for specific “business purposes,” as defined by Cal.
-                  Civ. Code 1798.140(e) and specified in the section “Sharing
-                  Data”. This includes sharing personal identifiers, commercial
-                  information, and internet or other electronic network activity
-                  with payment processing providers, customer relationship
-                  management, consulting, e-mail, product feedback, helpdesk
-                  services, advertising networks, website analytics companies.
-                  You have a right to direct Hydrafacial not to sell or share
-                  your Personal Information.
+                  Hydrafacialは、金銭的対価と引き換えに個人データを販売することはありませんが、カリフォルニア民事法典1798.140(ad)(2)
+                  で定義されている他の便益のために個人データを共有します。当社は、カリフォルニア民事法典1798.140(e)で定義され、および「データの共有」セクションで指定されている特定の「事業目的」のために、必要に応じて過去12ヶ月間に個人データを共有しました。これには、支払い処理プロバイダー、顧客関係管理、コンサルティング、電子メール、製品フィードバック、ヘルプデスク
+                  サービス、広告ネットワーク、ウェブサイト分析会社との個人識別子、商用情報、およびインターネットまたはその他の電子ネットワークアクティビティの共有が含まれます。お客様は、Hydrafacial
+                  にお客様の個人情報を販売または共有しないよう指示する権利を有します。  
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  For more information on how to exercise your rights, including
-                  the list of privacy rights that may be available to you,
-                  please see section “Your Rights” of this Privacy Notice. If
-                  you would like to access, review, update, correct, delete any
-                  personal data we hold about you, or exercise any other privacy
-                  rights available to you, including the right to opt out from
-                  selling or sharing your personal, you fill out this request
-                  form or send your request to:
+                  お客様が利用可能なプライバシー権のリストを含む、お客様の権利を行使する方法の詳細については、本プライバシー通知の「お客様の権利」セクションを参照してください。当社が保持しているお客様の個人データへのアクセス、確認、更新、訂正、削除、またはお客様の個人情報の販売または共有をオプトアウトする権利を含む、お客様が利用可能なその他のプライバシー権を行使したい場合は、このリクエストフォーム
+                  に必要事項を記入するか、またはリクエストを{" "}
                   <a
                     href="mailto:dpo@hydrafacial.com"
                     target="_blank"
                     rel="noreferrer"
                   >
                     dpo@hydrafacial.com
-                  </a>
+                  </a>{" "}
+                  まで送信してください。
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  We endeavor to respond to a Privacy Rights Request within the
-                  required timeframes. If we need more time, we will inform you
-                  of the reason and extension period in writing. If you submit
-                  your Privacy Rights Request electronically through our request
-                  form, we will deliver our written response to the verified
-                  email associated with the request. If you did not submit the
-                  request to us via the online webform, we will deliver our
-                  written response by mail or electronically, at your option. We
-                  do not charge a fee to process or respond to your verifiable
-                  consumer request unless it is excessive, repetitive, or
-                  manifestly unfounded. If we determine that the request
-                  warrants a fee, we will tell you why we made that decision and
-                  provide you with a cost estimate before completing your
-                  request.
+                  当社は、必要な期間内にプライバシー権の要求に対応するよう努めています。さらに時間が必要な場合は、その理由と延長期間を書面でお知らせします。プライバシー権のリクエストをリクエストフォームから電子的に送信した場合、リクエストに関連付けられた確認済みの電子メールに書面による回答を送信します。オンラインウエブフォームを介してリクエストを送信しなかった場合、書面による回答をお客様の選択に応じて郵送するまたは電子的に送信します。当社は、過剰、反復的、または明らかに根拠がない場合を除き、お客様の検証可能な消費者要求を処理するまたは対応するために、料金を請求しません。リクエストに対し料金が発生すると判断した場合は、リクエストを完了する前に、その判断理由を説明し、費用の見積もりを提示します。
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  Right to Appeal – California
+                  上訴する権利 – カリフォルニア州
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  If Hydrafacial does not take action on your Privacy Rights
-                  Request within the 45 days response period, or in the event of
-                  an extension, within the maximum 90-day response period, we
-                  will inform you in writing of the reasons for not taking
-                  action, as well as provide an explanation of any rights you
-                  have to appeal the decision.
+                  Hydrafacial が 45 日間の応答期間内に、または延長の場合は最大
+                  90
+                  日間の応答期間内にお客様のプライバシー権のリクエストに対して行動を起こさない場合、当社は行動を起こさなかった理由を書面で通知するとともに、決定に対してお客様が有する上訴する権利について説明します。 
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  Right to Appeal – Virginia
+                  上訴する権利 - バージニア州
                 </p>
                 <p className={styles["sectionDescription"]}>
-                  You have the right to appeal a refusal to take action on a
-                  Privacy Rights Request within a reasonable period of time
-                  after your receipt of our decision. Within 60 days of receipt
-                  of an appeal, Hydrafacial will inform you in writing of any
-                  action taken or not taken in response to the appeal, including
-                  a written explanation of the reasons for the decisions. If the
-                  appeal is denied, you will be provided with a method through
-                  which you may contact Attorney General of Virginia to submit a
-                  complaint.
+                  お客様は、当社の決定を受け取った後、合理的な期間内に、プライバシー権のリクエストに対する措置の拒否について上訴する権利を有します。Hydrafacialは、上訴を受け取ってから60日以内に、上訴に対応して取られた措置または取られなかった措置を、その決定理由の説明を含む書面でお客様に通知します。上訴が却下された場合、バージニア州検事総長に苦情を申し立てる方法を提供します。
                 </p>
               </div>
             </div>
             <div className={styles["contentContainer"]}>
               <h3 className={styles["contentTitle"]}>
-                California & Delaware “Do Not track Disclosures”
+                カリフォルニア州とデラウェア州の「Do Not
+                track（トラッキング拒否）情報開示
               </h3>
               <p>
-                Privacy regulations in the United States, such as the laws of
-                California and Delaware, require Hydrafacial to indicate whether
-                it honors your browser’s “Do Not Track” settings concerning
-                targeted advertising. Hydrafacial adheres to the standards set
-                out in this Privacy Notice and does not monitor or respond to Do
-                Not Track browser requests.
+                カリフォルニア州やデラウェア州の法律など、米国におけるプライバシー規制により、Hydrafacialは、ターゲット広告に関するお客様のブラウザの「Do
+                Not
+                Track（トラッキング拒否）」設定を尊重するかどうかを示す必要があります。Hydrafacialは、本プライバシー通知に記載された基準を遵守し、Do
+                Not
+                Track（トラッキング拒否）ブラウザの要求を監視することまた要求に応じることはありません。
               </p>
             </div>
             <h2 className={styles["title"]}>利用規約</h2>
@@ -1101,7 +783,6 @@ const PrivacyPolicyPageJa = () => {
                   className="policyLink"
                   download
                   target={"_blank"}
-                  rel="noreferrer"
                 >
                   プライバシー通知
                 </a>
@@ -1114,7 +795,6 @@ const PrivacyPolicyPageJa = () => {
                   className="policyLink"
                   download
                   target={"_blank"}
-                  rel="noreferrer"
                 >
                   データ処理契約
                 </a>
@@ -1410,28 +1090,25 @@ const PrivacyPolicyPageJa = () => {
               </div>
             </div>
             <div className={styles["contentContainer"]}>
-              <h3 className={styles["contentTitle"]}>Contact Us</h3>
+              <h3 className={styles["contentTitle"]}>お問合せ</h3>
               <p>
-                For our customers: please contact the Hydrafacial entity
-                identified on your order form.
+                当社のお客様の場合:
+                ご注文フォームに記載されているHydrafacial事業体にお問い合わせください。
               </p>
               <p>
-                If you would like to access, review, update, correct, delete any
-                personal data we hold about you, or exercise any other privacy
-                rights available to you, including the right to opt out from
-                selling or sharing your personal, you fill out this request
-                form.
+                当社が保持しているお客様の個人データへのアクセス、確認、更新、訂正、削除、またはお客様が利用可能なその他のプライバシー権を行使したい場合は、このリクエストフォーム
+                に必要事項を記入してください。
               </p>
-              <p>Controller’s Contact Information:</p>
+              <p>管理者の連絡先情報:</p>
               <div className={styles["tableWrapper"]}>
                 <table className={styles["contactDetailsTable"]}>
                   <thead>
                     <tr>
-                      <th>USA</th>
-                      <th>United Kingdom</th>
-                      <th>Germany</th>
-                      <th>France </th>
-                      <th>Spain</th>
+                      <th>米国</th>
+                      <th>英国</th>
+                      <th>ドイツ</th>
+                      <th>フランス </th>
+                      <th>スペイン</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -1455,7 +1132,7 @@ const PrivacyPolicyPageJa = () => {
                 </table>
               </div>
               <p className={styles["contactDetails"]}>
-                Data Protection Officer: Ignacio de la Corte
+                データ保護責任者: Ignacio de la Corte
               </p>
               <p>
                 <a
@@ -1467,9 +1144,7 @@ const PrivacyPolicyPageJa = () => {
                 </a>
               </p>
               <p>
-                Any questions or enquiries in relation to this notice, your
-                personal data or to know & enforce your rights please let us
-                know how we can help.
+                本通知、お客様の個人情報、またはお客様の権利の行使に関するご質問やお問い合わせは、当社までご連絡ください。
               </p>
             </div>
           </Col>
